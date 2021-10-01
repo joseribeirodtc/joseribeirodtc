@@ -7,7 +7,7 @@
 
 <div align="left">
   <a href="https://github.com/joseribeirodtc">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseribeirodtc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseribeirodtc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img align="center" alt="Rafa-pic" height="178" style="border-radius:50px;" src="https://media.istockphoto.com/vectors/night-wisdom-magic-icon-skull-spellbook-candles-flat-design-isometric-vector-id495661788?k=20&m=495661788&s=612x612&w=0&h=eCrhdUOAJagqi_P_dPkch3gxURDfBmnpJyj4qemXLvA=">
 </div>
 
