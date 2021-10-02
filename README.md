@@ -8,7 +8,7 @@
 <div align="left">
   <a href="https://github.com/joseribeirodtc">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseribeirodtc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" alt="Rafa-pic" height="220" style="border-radius:50px;" src="https://opengameart.org/sites/default/files/forum-attachments/giphy.gif">
+  <img align="center" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://opengameart.org/sites/default/files/forum-attachments/giphy.gif">
   
     
 </div>
