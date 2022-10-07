@@ -7,16 +7,14 @@
 - 👨‍💻 I'm currently working with Back-end
 - 🌱 I’m learning some Front-end stuff (nice)
 - ✨ Always ready for the next magic trick!
-
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/51083033/194445789-c04b97d2-bc00-47a0-bd73-b24bc4e8d02c.gif" alt="animated" />
+</p>
 <div align="left">
   <a href="https://github.com/joseribeirodtc">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseribeirodtc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <p align="right">
-  <img src="https://user-images.githubusercontent.com/51083033/194445789-c04b97d2-bc00-47a0-bd73-b24bc4e8d02c.gif" alt="animated" />
-</p>
-    <!---
-  <img align="center" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/51083033/194445789-c04b97d2-bc00-47a0-bd73-b24bc4e8d02c.gif">
--->
+    
+   
     
 </div>
   
@@ -43,7 +41,9 @@
  
   
 </div>
-  
+   <!---
+  <img align="center" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/51083033/194445789-c04b97d2-bc00-47a0-bd73-b24bc4e8d02c.gif">
+-->
   <!---
 caveira e velas: https://media.istockphoto.com/vectors/night-wisdom-magic-icon-skull-spellbook-candles-flat-design-isometric-vector-id495661788?k=20&m=495661788&s=612x612&w=0&h=eCrhdUOAJagqi_P_dPkch3gxURDfBmnpJyj4qemXLvA=
 
