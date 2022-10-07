@@ -1,5 +1,5 @@
 ## 👾 Hello! 🧙 I'm Deusimar, your personal Dev Wizard!
-
+![giphy](https://user-images.githubusercontent.com/51083033/194445789-c04b97d2-bc00-47a0-bd73-b24bc4e8d02c.gif)
 
 - 👨‍💻 I'm currently working with Back-end
 - 🌱 I’m learning some Front-end stuff (nice)
@@ -9,9 +9,11 @@
   <a href="https://github.com/joseribeirodtc">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseribeirodtc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="center" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://opengameart.org/sites/default/files/forum-attachments/giphy.gif">
-  
     
 </div>
+  
+
+  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
