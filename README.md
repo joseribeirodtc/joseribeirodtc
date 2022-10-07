@@ -1,23 +1,17 @@
 ## 👾 Hello! 🧙 I'm Deusimar, your personal Dev Wizard!
-<!---
+
 ![giphy](https://user-images.githubusercontent.com/51083033/194445789-c04b97d2-bc00-47a0-bd73-b24bc4e8d02c.gif)
--->
+
 
 
 - 👨‍💻 I'm currently working with Back-end
 - 🌱 I’m learning some Front-end stuff (nice)
 - ✨ Always ready for the next magic trick!
 
-<div align="left">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseribeirodtc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img align ="right" src="https://user-images.githubusercontent.com/51083033/194445789-c04b97d2-bc00-47a0-bd73-b24bc4e8d02c.gif" alt="animated" />
-</div>
+
 <div align="left">
   <a href="https://github.com/joseribeirodtc">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=joseribeirodtc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img align ="right" src="https://user-images.githubusercontent.com/51083033/194445789-c04b97d2-bc00-47a0-bd73-b24bc4e8d02c.gif" alt="animated" />
-   
-    
 </div>
   
 
