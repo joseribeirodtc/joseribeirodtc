@@ -25,7 +25,7 @@
   <img align="center" alt="Rafa-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 
-  
+  </div>
   
   
 ### 🦄 My Social Media!
@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/deusimar-ribeiro-641967184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  </div>
+  
    <!---
   <img align="center" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/51083033/194445789-c04b97d2-bc00-47a0-bd73-b24bc4e8d02c.gif">
 -->
